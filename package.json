@@ -1,9 +1,9 @@
 {
   "name": "draft-wysiwyg",
-  "version": "0.2.4",
-  "author": "Benjamin Kniffler",
+  "version": "0.2.5",
+  "author": "Amrita Yadav",
   "license": "MIT",
-  "repository": "https://github.com/bkniffler/draft-wysiwyg",
+  "repository": "https://github.com/amrita-syn/draft-wysiwyg",
   "main": "./lib",
   "keywords": [
     "draftjs",
