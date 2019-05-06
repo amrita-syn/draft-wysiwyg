@@ -5,10 +5,6 @@
   "license": "MIT",
   "repository": "https://github.com/bkniffler/draft-wysiwyg",
   "main": "./lib",
-  "engines": {
-    "node": "5.x.x",
-    "npm": "3.x.x"
-  },
   "keywords": [
     "draftjs",
     "draft-js",
@@ -17,7 +13,7 @@
     "drag",
     "drop",
     "react",
-    "richtext"
+    "richtext", "table"
   ],
   "scripts": {
     "start": "node ./example",
